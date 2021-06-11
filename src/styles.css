@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+body{
+    background: #C04848;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.bs-length{
+    width: 45px;
+    height: 45px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 50%;
+    color: #444;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1.1rem;
+    text-align: center;
+}
+.times{
+    justify-content: center;
+}
+.time{
+    margin: 0 auto;
+    width: 280px;
+    height: 280px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid #4ebfc9;
+    border-radius: 50%;
+    justify-content: center;
+}
+.time-r{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.time-l{
+    font-size: 5rem;
+    font-weight: 700;
+}
