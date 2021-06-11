@@ -1,4 +1,4 @@
-# 💎 Calculadora
+# 💎 Pomodoro Clock
  Pomodoro Clock te ayuda a evitar este problema al dividir tu día en sesiones de enfoque de 25 minutos seguidas de descansos de cinco minutos.
 
 Puedes acceder a la aplicacion desde este enlace:
